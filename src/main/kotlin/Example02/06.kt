@@ -11,6 +11,11 @@ fun sayHiii(){
     //sayBye here error
     fun sayBye(){
         println("Bye!")
+
+        fun moo(){
+            println("Moo")
+        }
+        moo()
     }
 
     sayBye()
