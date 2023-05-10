@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729184f5-90af-4146-87d7-3555cdb6336c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CasterKotlin_playGround.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example01/01.kt" afterDir="false" />
-    </list>
+    <list default="true" id="729184f5-90af-4146-87d7-3555cdb6336c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +62,18 @@
       <option name="presentableId" value="Default" />
       <updated>1683726447720</updated>
     </task>
+    <task id="LOCAL-00001" summary="[feat::] Add Example01">
+      <created>1683727511948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683727511948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[feat::] Add Example01" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add Example01" />
   </component>
 </project>
