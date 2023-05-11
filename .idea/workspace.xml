@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729184f5-90af-4146-87d7-3555cdb6336c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/03.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._01Kt">
+  <component name="RunManager" selected="Kotlin._03Kt">
     <configuration name="_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example03._01Kt" />
       <module name="CasterKotlin_playGround" />
@@ -51,15 +52,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example02._06Kt" />
+    <configuration name="_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example03._02Kt" />
       <module name="CasterKotlin_playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example02._07Kt" />
+    <configuration name="_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example03._03Kt" />
       <module name="CasterKotlin_playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._03Kt" />
+        <item itemvalue="Kotlin._02Kt" />
         <item itemvalue="Kotlin._01Kt" />
         <item itemvalue="Kotlin._10Kt" />
         <item itemvalue="Kotlin._09Kt" />
-        <item itemvalue="Kotlin._07Kt" />
-        <item itemvalue="Kotlin._06Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -210,12 +211,20 @@
       <option name="project" value="LOCAL" />
       <updated>1683758454568</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="[feat::] Add Example03">
+      <created>1683777680039</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683777680039</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat::] Add Example01" />
     <MESSAGE value="[feat::] Add Example02" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add Example02" />
+    <MESSAGE value="[feat::] Add Example03" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add Example03" />
   </component>
 </project>
