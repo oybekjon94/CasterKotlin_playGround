@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729184f5-90af-4146-87d7-3555cdb6336c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/06.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._05Kt">
-    <configuration name="_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example03._01Kt" />
-      <module name="CasterKotlin_playGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin._06Kt">
     <configuration name="_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example03._02Kt" />
       <module name="CasterKotlin_playGround" />
@@ -78,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example03._06Kt" />
+      <module name="CasterKotlin_playGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._06Kt" />
         <item itemvalue="Kotlin._05Kt" />
         <item itemvalue="Kotlin._04Kt" />
         <item itemvalue="Kotlin._03Kt" />
         <item itemvalue="Kotlin._02Kt" />
-        <item itemvalue="Kotlin._01Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683794553832</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[feat::] Add Example03">
+      <created>1683795220098</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683795220098</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
