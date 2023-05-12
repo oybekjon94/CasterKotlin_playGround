@@ -1,14 +1,12 @@
 package Example03
 
 fun main(){
-    var user = User2(firstName = "Oybek", lastName = "Khollikov")
-    user.printFullName()
-    user.printWithPrefix("Sherbek")
-    user.updateName("Otabek")
-    user.printFullName()
-    user.firstNameLenght()
+    var user = User2(firstName = "Oybek","Kholikov")
+    println(user.fullName)
 
-    var friend = User2("Abduqodir","Isroilov")
-    friend.printFullName()
-    friend.firstNameLenght()
+    user.fullName = "Jon"
+    println(user.fullName)
+
+    user.fullName = "Jane Sparks"
+    println(user.fullName)
 }

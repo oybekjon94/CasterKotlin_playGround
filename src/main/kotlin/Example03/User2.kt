@@ -1,19 +1,17 @@
 package Example03
 
-class User2 constructor(var firstName:String, var lastName:String){
+class User2 (var firstName:String, var lastName:String){
 
-    fun printFullName(){
-        println("$firstName $lastName")
-    }
+    var fullName = "$firstName $lastName"
+    get() = "Name: $field"
+    //field bu tepadagi fullName propertyni ozida saqlaydi
 
-    fun printWithPrefix(prefix:String){
-        println("$prefix $lastName")
-    }
-
-    fun updateName(newName:String){
-        firstName = newName
-    }
-    fun firstNameLenght(){
-        println(firstName.length)
+    //biz yana override qila olamiz set orqali
+    set(value) {
+       if(value.startsWith("Jon")){
+           field  = "Jon Doe"
+       }else{
+           field = value
+       }
     }
 }
