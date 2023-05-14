@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="729184f5-90af-4146-87d7-3555cdb6336c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/07User3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/User3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/08User4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/09.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Example03/09User.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -44,30 +45,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin._07User3Kt">
-    <configuration name="_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example03._03Kt" />
+  <component name="RunManager" selected="Kotlin._09Kt">
+    <configuration name="_01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_01Kt" />
       <module name="CasterKotlin_playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example03._04Kt" />
-      <module name="CasterKotlin_playGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example03._05Kt" />
-      <module name="CasterKotlin_playGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example03._06Kt" />
+    <configuration name="_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example04._01Kt" />
       <module name="CasterKotlin_playGround" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,13 +67,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_08User4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example03._08User4Kt" />
+      <module name="CasterKotlin_playGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_09Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example03._09Kt" />
+      <module name="CasterKotlin_playGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._09Kt" />
+        <item itemvalue="Kotlin._08User4Kt" />
+        <item itemvalue="Kotlin._01Kt (1)" />
+        <item itemvalue="Kotlin._01Kt" />
         <item itemvalue="Kotlin._07User3Kt" />
-        <item itemvalue="Kotlin._06Kt" />
-        <item itemvalue="Kotlin._05Kt" />
-        <item itemvalue="Kotlin._04Kt" />
-        <item itemvalue="Kotlin._03Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683855829171</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="[feat::] Add Example03">
+      <created>1683858352924</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1683858352924</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
